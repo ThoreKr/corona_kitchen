@@ -25,5 +25,8 @@ Added to the jar
 * 1 chili pepper
 * mustard seeds
 * 2 cloves of garlic
+* 1/4 onion
 
 ### Notes
+
+![Mushrooms in jar](img/mushrooms_1.jpg)

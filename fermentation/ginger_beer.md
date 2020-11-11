@@ -16,10 +16,14 @@ Scaled to roughly these rations relative to amount of water:
 
 ### Notes
 
+![Ginger Beer Jar](img/gb_oo_1.jpg)
+
 * Bottled on 2020-11-08
 * Done 2020-11-11, moved to fridge
 * Could have more ginger taste
 * Carbonated very quickly
+
+![Ginger Beer Bottled](img/gb_oo_1_bottled.jpg)
 
 ## Attempt Two -- One off (2020-11-11)
 
