@@ -48,7 +48,8 @@ Inspired by:
 
 ### Ingredients
 
-* 50g ginger (fairment seemed to be a too small amoun)
+* 50g ginger (unpeeled, grated)
+* 900ml water
 * 80g honey (because why not)
 * 20g brown sugar
 * 50g ginger bug
@@ -56,3 +57,7 @@ Inspired by:
 * juice of 1 lemon
 
 ### Notes
+
+* More ginger than suggested
+* The tea was very spicy before fermentation
+* jar a bit too full, reduce by 100ml next time
