@@ -30,3 +30,7 @@ Added to the jar
 ### Notes
 
 ![Mushrooms in jar](img/mushrooms_1.jpg)
+
+* Shiitake tasted better than champignons
+* nice spice level
+* Sourness not really pleasant

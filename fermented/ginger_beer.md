@@ -38,6 +38,8 @@ Scaled to roughly these rations relative to amount of water:
 ### Notes
 
 * Ginger took more volume than expected, ginger to water ratio probably off
+* Bottled on 2020-11-13
+* Carbonation seemed solid, taste was still sweet, put in the fridge
 
 ## Attempt Three -- Ginger Bug (2020-11-11)
 
@@ -61,3 +63,7 @@ Inspired by:
 * More ginger than suggested
 * The tea was very spicy before fermentation
 * jar a bit too full, reduce by 100ml next time
+* Bottled on 2020-11-13
+* Not at all spicy
+* Taste wasn't great (overdone)
+* Lemon taste intersting, but in this case made it worse.
