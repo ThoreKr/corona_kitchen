@@ -67,3 +67,20 @@ Inspired by:
 * Not at all spicy
 * Taste wasn't great (overdone)
 * Lemon taste intersting, but in this case made it worse.
+
+## Attempt Four -- Ginger Bug (2020-11-27)
+
+### Ingredients
+
+* 100g ginger (unpeeled, grated)
+* 900ml water
+* 40g brown sugar
+* 60g white sugar
+* 50g ginger bug
+* juice of 1 limes
+
+### Notes
+
+* Lime juice to increase acidity a little bit
+* Intended to go a lot sweeter this time
+* Fermentation time should be short (prob. 2 days), develop some carbonation but not much of that bitterness

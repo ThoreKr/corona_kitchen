@@ -3,7 +3,7 @@
 ## Project Index
 
 * Fermented Things
-    * [Ginger Beer](fermented/ginger_beer)
+    * [Ginger Beer](fermented/ginger_beer.md)
 * Pickled Things
-    * [Eggs](pickled/eggs)
-    * [Mushrooms](pickled/mushrooms)
+    * [Eggs](pickled/eggs.md)
+    * [Mushrooms](pickled/mushrooms.md)
